@@ -10,7 +10,7 @@
 {
   PORT=5000
 
-  MONGO_URI=   <your_mongoDB_Atlas_uri_with_credentials>
+  MONGO_URI=<your_mongoDB_Atlas_uri_with_credentials>
 
   JWT_SECRET=<secret>
 
