@@ -29,6 +29,9 @@
 
 ### Install server dependencies
 
+```bash
+npm install bcryptjs express dotenv jsonwebtoken mongoose nodemailer
+```
 
  npm install 
 [bcryptjs](https://www.npmjs.com/package/bcryptjs)
