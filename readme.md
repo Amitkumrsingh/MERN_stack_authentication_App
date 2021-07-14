@@ -4,7 +4,7 @@
 
 # Quick Start  🚀
 
-### Add a config.env file in config folder with the following
+### Add a config.env file with the following
 
 ```bash
 {
